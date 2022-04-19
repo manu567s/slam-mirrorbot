@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "radiant-mason-340619",
+  "private_key_id": "7420a830690b247bcf885c844cd9bdddafcc4773",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDUQqToK1S4eBbw\nS2j4yORMmVTqZfBpc5NHNOwnx4rCCEludaHBJPZMFLVEzLsGHJ61IgPh4VCGdj5j\nOgfdF3NwiiI07t1Se7F9fmw7VeS+jA1kW5i98gEKT9x5uePJY6WqEqJXcWercR4K\n7mz91PpJyKktb0MLBdgr+jqMhH/dOkNqqVnaNUNjjrRWw/DNjxuMKRRJY9MDIYmd\n+i8Q9bPj+cmMcO95aTw4qyALQFVJYBJ3TfFZtEtwGnVVeMM/YKFPNAFmrYpbOHGU\nrw6CH8gTfQV6+dQPgTXs2d5rVQrtVDZ9jfCUgLzODbg8Iz9VcGN1+DfWnceC3T+e\n1/wJILLnAgMBAAECggEAEjdwAK7rU/OWgGPwa92N3lcQdxdtlRdCrgtIMzfIXFOq\nvayhx7o82xWx4ugxKtqc8k2riKC2MPwH6asqzpo7IY7xVZqkavZLqsoFTuhVu9a4\nNYM47iBNX42wDdBa0MdZCeoUfa2xaIDKQ8TnnLdBDcEHZ+tTFSiYv1l32eRrNtin\nrb+sgCx3xpdU72xs9A04RV6VuyH07WXUcTml+dYU3SmJ9modoJtcYWrgc8lsmkAS\nh5LM0imhfUKlArhmvMqrJL/bhzkuMPzfEH+Q0qjk+eZsPTXAz9eGyb0uJK/Dp/2r\nUvrDtwBgfJluGcVlmaLyicA6IwaWdysqMphhxlpE+QKBgQD1CST8Ob3KJWVC1RTV\nGyDGvWbsogEZs9nvOnZgWYTUw5IywaIRN7KIjqV5QL4i+YTZE5QF+w/whlyICAjl\nLO3Vy21XVkSSG1Fxw9ZkEQQycD+AZGhEk6NINWC23zbShIp8lr0cPVfjsILrt/xC\nKwsS65Wv5WBu0WTk8xP1JkvprwKBgQDdwg+4xyIcuwcfrnRajfFU/FNdzpahlITx\nKS7d9wANm/W//E1gK2lq6xMEIpvZb4blBURtRYrnve1utU576OuMtSMdn5dagloD\ngirf0iLcWtSOOwyh6cVGtaGfcLjdgQKPbeDAO8FY4KWNfcfBG1nQaAgY9wKEvYDC\nAFRLCMnwSQKBgQDgGgbrb1u2n1DnOL4e0Pq/CMYzMU9UVHrDInLVV8n2VQ9GwHUa\nzhfIcL3CEYZTsmTfq9o7Rgyj7B6AguivwNGcMLrFn66C+d0Y8QUI688s2iAZqrr5\nzRUOm1LirW8URgfqPmqigy/4m5yBPPnHAlrUaQWzo1L4xyVBh1b/ZJEVHQKBgQC9\nqQLvQwjOz7rJAtiqtimISQI4Ab9c1HxbEaDu4BigixnEqFG5BYf0lLa/26W1cqhJ\naZbbahXiG9Nc0x4b5drHjghJhrvZAhFgXMy0frGoCtsuBhzIwfoifqeLiMnjUDpT\nV2NYpgK4M/IDsGbOpsjK8J60U1ZJFxZvVf7B6fNkWQKBgQCQpUq/nUVJg90vk/7A\nv+G2tfzXRsuipSw6vfX0wR2csO/6Z6Sfi15Oy6Kabx/WIuiMJrYSGkI5pv9kiwrw\nNk8bTdLWfzRjfelBfL68SsvDu96wP9UJuClCsQKNOvoRbzWdJGRwDG3Juq8w0uEV\nowxRQOpnl9SNHz4DdJoIvOP4WQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "mfc-xm2qfv9l7uiz4mnk-3dv69n3br@radiant-mason-340619.iam.gserviceaccount.com",
+  "client_id": "114700498495178531020",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mfc-xm2qfv9l7uiz4mnk-3dv69n3br%40radiant-mason-340619.iam.gserviceaccount.com"
+}
